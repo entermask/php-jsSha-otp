@@ -33,7 +33,7 @@ class GoogleOtp
             $key .= '0';
 
         if ($epoch === false)
-            $epoch = time() - 72;
+            $epoch = time();
 
         $time = str_pad(dechex(floor($epoch/30)), 16, '0', STR_PAD_LEFT);
         $hmac = hash_hmac('sha1', pack("H*", $time), pack("H*", $key), false);
