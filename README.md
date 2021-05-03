@@ -1,6 +1,6 @@
 # php-jsSha-otp
 Based on jsSha library to get otp Google Authenticator.
-You can try javascript version demo here: [DEMO]https://gauth.apps.gbraad.nl/
+You can try javascript version demo here: https://gauth.apps.gbraad.nl
 
 ## How to use
 
