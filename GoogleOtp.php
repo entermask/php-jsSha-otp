@@ -3,8 +3,8 @@
 /* 
 	Author: Nguyen Duc Thinh
 	Github: https://github.com/entermask/php-jsSha-otp
-    Version: 1.0.0
-    Created at: 05/03/2021 ( m/d/Y )
+	Version: 1.0.0
+	Created at: 05/03/2021 ( m/d/Y )
 */
 
 class GoogleOtp
